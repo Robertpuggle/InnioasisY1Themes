@@ -121,5 +121,9 @@
       "batterycharge.003.png",
       "batterycharge.004.png"
     ]
+  },
+  "playerConfig": {
+    "progressBackgroundColor": "#ebe2ca",
+    "progressColor": "#ff6400"
   }
 }
