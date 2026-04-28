@@ -6,30 +6,30 @@
     "description": "Simple Android theme."
   },
   "themeCover": "cover_YS.png",
-  "desktopWallpaper": "desk_bg001_YS.png",
+  "desktopWallpaper": "desktop_wallpaper.png",
   "globalWallpaper": "global_bg001_YS.png",
   "desktopMask": "transparent.png",
   "fontFamily": "opensans-condbold.ttf",
   "itemConfig": {
-    "itemTextColor": "#ffffff",
-    "itemSelectedTextColor": "#a5c736",
+    "itemTextColor": "#e3e3e3",
+    "itemSelectedTextColor": "#000000",
     "itemSelectedBackground": "1_YS.png",
     "itemBackground": "0.png",
     "itemRightArrow": "2_YS.png"
   },
   "dialogConfig": {
     "dialogOptionBackground": "3.png",
-    "dialogOptionTextColor": "#ffffff",
+    "dialogOptionTextColor": "#e3e3e3",
     "dialogOptionSelectedBackground": "4_YS.png",
     "dialogOptionSelectedTextColor": "#000000",
-    "dialogBackgroundColor": "#000000"
+    "dialogBackgroundColor": "#e3e3e3"
   },
   "menuConfig": {
     "menuBackgroundColor": "",
     "menuItemBackground": "",
     "menuItemTextColor": "#000000",
     "menuItemSelectedBackground": "1_YS.png",
-    "menuItemSelectedTextColor": "#a5c736"
+    "menuItemSelectedTextColor": "#000000"
   },
   "homePageConfig": {
     "nowPlaying": "Now Playing_YS.png",
