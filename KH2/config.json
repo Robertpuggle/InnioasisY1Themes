@@ -108,7 +108,7 @@
     "blDisconnected": "blDisconnected.png",
     "headsetWithMic": "headset2.png",
     "headsetWithoutMic": "headset1.png",
-    "statusBarColor": "#a3bcff",
+    "statusBarColor": "#6a759f",
     "battery": [
       "battery.001.png",
       "battery.002.png",
@@ -124,6 +124,6 @@
   },
   "playerConfig": {
     "progressBackgroundColor": "#a3bcff",
-    "progressColor": "#00022f"
+    "progressColor": "#7e9dff"
   }
 }
